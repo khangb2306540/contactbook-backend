@@ -1,0 +1,23 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "Contactbook Backend",
+  "keywords": [
+    "Enter"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "Enter"
+  },
+  "license": "ISC",
+  "author": "Nguyen Hoang Khang",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "Enter"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.3.0"
+  }
+}
